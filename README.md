@@ -25,6 +25,9 @@ algunas de las tecnologias en las que me destaco debido a la amplia practica en 
 -GIT
 
 📧 Puedes contactarme a través de mi correo electrónico: melodyponczko@gmail.com.
+
 📫 Encuéntrame en LinkedIn:https://www.linkedin.com/in/melody-ponczko-047545269/.
+
 ¡Gracias por visitar mi perfil!
+
 ¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y contribuciones. Si tienes alguna pregunta o simplemente quieres charlar sobre programación, tecnología o cualquier otro tema relacionado, no dudes en contactarme. ¡Espero que encuentres algo interesante en mi perfil! 😄
