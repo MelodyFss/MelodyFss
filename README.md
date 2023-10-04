@@ -11,7 +11,7 @@ Acerca de mí
 
 Qué tecnologías uso?
 
-algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la universidad son:
+algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la secundaria son:
 
 -Javascript
 -PHP
