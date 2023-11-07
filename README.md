@@ -1,17 +1,17 @@
-¡Holaa! 👋
-¡Bienvenido/a a mi perfil de GitHub! Soy Melody Ponczko, una apasionada de la programación y la tecnología. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes áreas. Permíteme presentarte un poco sobre mí y mis intereses:
+Hello! 👋
+Welcome to my GitHub profile! I'm Melody Ponczko, a passionate programmer and technology enthusiast. Here, you'll find some of my projects and contributions in various areas. Allow me to introduce myself and share a bit about my interests:
 
-Acerca de mí
+About Me:
 
-🎓 Actualmente tengo cursado el Bootcamp de SoyHenry y me recibí de la escuela secundaria JUAN XXIII con bachiller técnico en informática.
+🎓 I've completed the Soy Henry Bootcamp,Udemy UX/UI course and graduated from JUAN XXIII high school with a technical degree in computer science.
 
-🌱 Siempre estoy aprendiendo y mejorando mis habilidades técnicas.
+🌱 I'm always learning and enhancing my technical skills.
 
-💡 Me interesan especialmente el front-end y desarrollo UX/UI.
+💡 I'm particularly interested in front-end and UX/UI development.
 
-Qué tecnologías uso?
+What Technologies Do I Use?
 
-algunas de las tecnologias en las que me destaco debido a la amplia practica en el bootcamp de soy henry y por mis estudios en la secundaria son:
+Some of the technologies I excel in, thanks to extensive practice at the SoyHenry Bootcamp and my high school studies, include:
 
 -Javascript
 -PHP
@@ -21,7 +21,7 @@ algunas de las tecnologias en las que me destaco debido a la amplia practica en 
 -Express.js
 -PostgreSQL
 -SQLServer
--Oracle
+-Figma
 -Mysql
 -Mongo
 -Mongoose
@@ -29,10 +29,10 @@ algunas de las tecnologias en las que me destaco debido a la amplia practica en 
 -HTML, CSS
 -GIT
 
-📧 Puedes contactarme a través de mi correo electrónico: melodyponczko@gmail.com.
+📧 You can reach me via email at: melodyponczko@gmail.com.
 
-📫 Encuéntrame en LinkedIn:https://www.linkedin.com/in/melody-ponczko-047545269/.
+📫 Find me on LinkedIn: https://www.linkedin.com/in/melody-ponczko-047545269/.
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
 
-¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y contribuciones. Si tienes alguna pregunta o simplemente quieres charlar sobre programación, tecnología o cualquier otro tema relacionado, no dudes en contactarme. ¡Espero que encuentres algo interesante en mi perfil! 😄
+Thank you for stopping by! Feel free to explore my projects and contributions. If you have any questions or simply want to chat about programming, technology, or any related topic, don't hesitate to contact me. I hope you find something interesting on my profile! 😄"
